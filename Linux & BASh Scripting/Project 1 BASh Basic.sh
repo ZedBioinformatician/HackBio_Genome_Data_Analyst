@@ -1,4 +1,6 @@
 #Project 1: BASh Basic
+#!/bin/bash
+
 echo "Francis Kangwa Chanda"
 
 mkdir Francis_Kangwa_Chanda
